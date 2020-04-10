@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ce5fee9-2843-4f88-8eed-7a89593ee2d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue-blog-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tern-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/dev-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/dev-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vue-snip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Blog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BlogFeed.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BlogFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BlogNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BlogPost.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/device-queries/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/device-queries/match-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/resource/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/resource/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/BlogFeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/BlogPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/_app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/_tools.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/base/_body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/base/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_pace.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_preview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_rte.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_v-transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/tools/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/tools/_easings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/tools/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/tools/_mediaqueries.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/tools/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/blog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/feed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/consequat-ut-nulla.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/curabitur-gravida-nisi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/dolor-quis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/lacinia-eget-tincidunt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/neque-libero-convallis-eget.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/nunc-commodo-placerat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/posuere-cubilia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/potenti-cras-in-purus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/pretium-nisl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/sapien-ut-nunc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/sit-amet-diam-in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/sit-amet-erat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/ultrices-mattis-odio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/ut-massa-quis-augue.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/api/post/vivamus-tortor-duis-mattis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aMNb7ZWrNDzj8V7p4glgaiDYHi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce5fee9-2843-4f88-8eed-7a89593ee2d5" name="Default Changelist" comment="" />
+      <created>1586541570189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586541570189</updated>
+      <workItem from="1586541571576" duration="2188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="257" width="607" height="536" key="find.popup" timestamp="1586543543225">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="257" width="607" height="536" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586543543225" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586542521872">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586542521872" />
+  </component>
+</project>
